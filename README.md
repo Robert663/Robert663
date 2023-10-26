@@ -27,6 +27,4 @@
   <a href="https://www.linkedin.com/in/robert-costa-944a57234/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-  ![Snake animation](https://github.com/Robert663/Robert663/blob/output/github-contribution-grid-snake.svg)
-
 </div>
